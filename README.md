@@ -97,7 +97,7 @@ El proyecto está dividido en múltiples repositorios:
 
 Video de demostración del proyecto:
 
-LINK_VIDEO
+https://www.youtube.com/watch?v=TVhq5wv0I18
 
 ---
 
