@@ -89,7 +89,7 @@ Nota: El código fuente del firmware del dispositivo IoT no se encuentra disponi
 El proyecto está dividido en múltiples repositorios:
 
 - **Plataforma Web (backend + frontend)** — este repositorio
-- **Aplicación Android para transmisión de telemetría**
+- **Aplicación Android para transmisión de telemetría** —  [Dassify-IoT-Application](https://github.com/MendozaJose2001/Dassify-IoT-Android-Application)
 
 ---
 
